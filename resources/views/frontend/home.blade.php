@@ -12,7 +12,7 @@
 <body>
 
 <div class="container">
-  <h2>Second App || All Category</h2>
+  <h2>Second App || All Categories</h2>
   <a class="btn btn-info" href="/add_category">Add Category</a>
   <table class="table">	
     <thead>
